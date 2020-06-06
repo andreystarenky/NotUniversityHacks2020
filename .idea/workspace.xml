@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5a88642-e9b6-4781-9263-73783187c193" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/water.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floods.py" afterPath="$PROJECT_DIR$/floods.py" />
-    </list>
+    <list default="true" id="d5a88642-e9b6-4781-9263-73783187c193" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +12,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="floods.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="floods.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/floods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -27,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="water.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="water.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/water.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -40,8 +37,8 @@
       <file leaf-file-name="tf_model.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tf_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+            <state relative-caret-position="493">
+              <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -66,8 +63,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/weather.json" />
-        <option value="$PROJECT_DIR$/floods.py" />
         <option value="$PROJECT_DIR$/water.json" />
+        <option value="$PROJECT_DIR$/tf_model.py" />
+        <option value="$PROJECT_DIR$/floods.py" />
       </list>
     </option>
   </component>
@@ -145,6 +143,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="tf_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NotUniversityHacks2020" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,12 +226,14 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.floods" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tf_model" />
     </list>
     <recent_temporary>
-      <list size="1">
+      <list size="2">
         <item index="0" class="java.lang.String" itemvalue="Python.floods" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tf_model" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591485658422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add model with data set">
+      <created>1591486506117</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591486506117</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -277,7 +302,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Data" />
     <MESSAGE value="more test data" />
-    <option name="LAST_COMMIT_MESSAGE" value="more test data" />
+    <MESSAGE value="add model with data set" />
+    <option name="LAST_COMMIT_MESSAGE" value="add model with data set" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -292,29 +318,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tf_model.py">
+    <entry file="file://$PROJECT_DIR$/water.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <caret line="0" column="40516" lean-forward="true" selection-start-line="0" selection-start-column="40516" selection-end-line="0" selection-end-column="40516" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/floods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/water.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="40516" lean-forward="true" selection-start-line="0" selection-start-column="40516" selection-end-line="0" selection-end-column="40516" />
-          <folding />
         </state>
       </provider>
     </entry>
