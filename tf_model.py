@@ -14,4 +14,8 @@ class MyModel(tf.keras.Model):
       x = self.dropout(x, training=training)
     return self.dense2(x)
 
+  def setVals(index1, index2, dataSet):
+    modelSets = index1 + index2 + dataSet
+    print("DEBUG: " + modelSets)
+
 model = MyModel()
