@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5a88642-e9b6-4781-9263-73783187c193" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html" afterPath="$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/black-dashboard-master/examples/map.html" afterPath="$PROJECT_DIR$/black-dashboard-master/examples/map.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/black-dashboard-master/examples/notifications.html" afterPath="$PROJECT_DIR$/black-dashboard-master/examples/notifications.html" />
@@ -45,9 +44,12 @@
       <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="73" column="40" lean-forward="false" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="230">
+              <caret line="580" column="21" lean-forward="false" selection-start-line="580" selection-start-column="21" selection-end-line="580" selection-end-column="21" />
+              <folding>
+                <marker date="1591493903864" expanded="false" signature="26262:26270" ph="·" />
+                <marker date="1591493903864" expanded="false" signature="26380:26388" ph="·" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,9 +57,35 @@
       <file leaf-file-name="map.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+            <state relative-caret-position="201">
+              <caret line="227" column="21" lean-forward="false" selection-start-line="227" selection-start-column="21" selection-end-line="227" selection-end-column="21" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notifications.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/notifications.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="331" column="21" lean-forward="false" selection-start-line="331" selection-start-column="21" selection-end-line="331" selection-end-column="21" />
+              <folding>
+                <marker date="1591493903828" expanded="false" signature="16820:16828" ph="·" />
+                <marker date="1591493903828" expanded="false" signature="16938:16946" ph="·" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tables.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/tables.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="473" column="21" lean-forward="false" selection-start-line="473" selection-start-column="21" selection-end-line="473" selection-end-column="21" />
+              <folding>
+                <marker date="1591493850214" expanded="false" signature="18892:18900" ph="·" />
+                <marker date="1591493850214" expanded="false" signature="19010:19018" ph="·" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,6 +139,19 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+      <find>creat</find>
+      <find>Creative Tim</find>
+      <find>creative tim</find>
+      <find>for a</find>
+      <find>made with</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>H2Flow</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -125,8 +166,8 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app.py" />
-        <option value="$PROJECT_DIR$/black-dashboard-master/examples/notifications.html" />
         <option value="$PROJECT_DIR$/black-dashboard-master/examples/tables.html" />
+        <option value="$PROJECT_DIR$/black-dashboard-master/examples/notifications.html" />
         <option value="$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html" />
         <option value="$PROJECT_DIR$/black-dashboard-master/examples/map.html" />
       </list>
@@ -493,7 +534,7 @@
         <state relative-caret-position="203">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding>
-            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -524,22 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/notifications.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="84" column="29" lean-forward="false" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/tables.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="602">
@@ -550,18 +575,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="473" column="21" lean-forward="false" selection-start-line="473" selection-start-column="21" selection-end-line="473" selection-end-column="21" />
+          <folding>
+            <marker date="1591493850214" expanded="false" signature="18892:18900" ph="·" />
+            <marker date="1591493850214" expanded="false" signature="19010:19018" ph="·" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/notifications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="331" column="21" lean-forward="false" selection-start-line="331" selection-start-column="21" selection-end-line="331" selection-end-column="21" />
+          <folding>
+            <marker date="1591493903828" expanded="false" signature="16820:16828" ph="·" />
+            <marker date="1591493903828" expanded="false" signature="16938:16946" ph="·" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="73" column="40" lean-forward="false" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="230">
+          <caret line="580" column="21" lean-forward="false" selection-start-line="580" selection-start-column="21" selection-end-line="580" selection-end-column="21" />
+          <folding>
+            <marker date="1591493903864" expanded="false" signature="26262:26270" ph="·" />
+            <marker date="1591493903864" expanded="false" signature="26380:26388" ph="·" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/map.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+        <state relative-caret-position="201">
+          <caret line="227" column="21" lean-forward="false" selection-start-line="227" selection-start-column="21" selection-end-line="227" selection-end-column="21" />
           <folding />
         </state>
       </provider>
