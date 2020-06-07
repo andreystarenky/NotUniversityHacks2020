@@ -12448,6 +12448,10 @@ a.text-secondary:focus {
   color: #00f2c3 !important;
 }
 
+.text-red {
+  color: #d63c3c !important;
+}
+
 a.text-success:hover,
 a.text-success:focus {
   color: #00a685 !important;
