@@ -1,2 +1,2 @@
-# NotUniversityHacks2020
+# NotUniversityHacks-2020
  
