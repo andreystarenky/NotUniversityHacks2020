@@ -3,8 +3,8 @@ from flask import render_template
 
 app = Flask(__name__,
             static_url_path='',
-            static_folder='black-dashboard-master',
-            template_folder='black-dashboard-master\examples')
+            static_folder='web',
+            template_folder='web\examples')
 
 @app.route('/home')
 def dashboard():
