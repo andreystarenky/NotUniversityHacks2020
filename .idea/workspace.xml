@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5a88642-e9b6-4781-9263-73783187c193" name="Default" comment="" />
+    <list default="true" id="d5a88642-e9b6-4781-9263-73783187c193" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html" afterPath="$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/black-dashboard-master/examples/map.html" afterPath="$PROJECT_DIR$/black-dashboard-master/examples/map.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/black-dashboard-master/examples/notifications.html" afterPath="$PROJECT_DIR$/black-dashboard-master/examples/notifications.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/black-dashboard-master/examples/tables.html" afterPath="$PROJECT_DIR$/black-dashboard-master/examples/tables.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +21,7 @@
       <file leaf-file-name="floods.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/floods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="493">
               <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -24,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="602">
+              <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -39,8 +45,18 @@
       <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="65" />
+            <state relative-caret-position="433">
+              <caret line="73" column="40" lean-forward="false" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/map.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -109,6 +125,10 @@
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/black-dashboard-master/examples/notifications.html" />
+        <option value="$PROJECT_DIR$/black-dashboard-master/examples/tables.html" />
+        <option value="$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html" />
+        <option value="$PROJECT_DIR$/black-dashboard-master/examples/map.html" />
       </list>
     </option>
   </component>
@@ -222,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tf_model">
+  <component name="RunManager" selected="Python.app">
     <configuration default="false" name="floods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,8 +369,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.tf_model" />
-        <item index="1" class="java.lang.String" itemvalue="Python.app" />
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tf_model" />
         <item index="2" class="java.lang.String" itemvalue="Python.floods" />
       </list>
     </recent_temporary>
@@ -436,16 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/floods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/water.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -496,14 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tf_model.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -512,13 +514,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/floods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/notifications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="84" column="29" lean-forward="false" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="602">
+          <caret line="26" column="34" lean-forward="false" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="73" column="40" lean-forward="false" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/black-dashboard-master/examples/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="54" column="28" lean-forward="false" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
