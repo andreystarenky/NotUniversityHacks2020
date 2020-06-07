@@ -1,13 +1,12 @@
 import json
 import requests
-#import tf_model
 
 # DATA FOR WEATHER IN GIVEN LOCATION
-#weatherData = requests.get("https://api.openweathermap.org/data/2.5/onecall?lat=33.441792&lon=-94.037689&%20exclude=hourly,daily&appid=83231dc5b0b225eb97bb206cc1023ece")
+weatherData = requests.get("https://api.openweathermap.org/data/2.5/onecall?lat=33.441792&lon=-94.037689&%20exclude=hourly,daily&appid=83231dc5b0b225eb97bb206cc1023ece")
 
 # GET WATER DATA FOR GIVEN STATION
-#waterData = requests.get("https://vps267042.vps.ovh.ca/scrapi/stations?page=7&key=-M99M-mwrZtTa9QBKKgx")
-#weatherData = requests.get()
+waterData = requests.get("https://vps267042.vps.ovh.ca/scrapi/stations?page=7&key=-M99M-mwrZtTa9QBKKgx")
+
 
 with open("weather.json", 'r', ) as file:
     weatherString = file.read()
@@ -15,10 +14,9 @@ with open("weather.json", 'r', ) as file:
 with open("water.json", 'r', ) as file:
     waterString= file.read()
 
-#print(weatherString)
 
-weatherData = json.loads(weatherString)
-waterData = json.loads(waterString)
+weatherData = json.loads(weatherData.text)
+waterData = json.loads(waterData.text)
 
 # DEBUG
 print("DAILY PREDICTIONS FOR MODEL SET: " + str(weatherData["daily"]))

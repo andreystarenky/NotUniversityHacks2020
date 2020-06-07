@@ -19332,6 +19332,7 @@ textarea.form-control:active {
   right: 2px;
   /* please don't change 'position' */
   position: absolute;
+  visibility: visible;
 }
 
 .ps__rail-x:hover>.ps__thumb-x,
